@@ -12,6 +12,9 @@ body{
     height: 100vh;
     width: 100vw;
 background-image: url('Leonardo_Phoenix_A_visually_captivating_hightech_background_fo_3.jpg');
+    background-size: cover; 
+    background-position: center center; 
+    background-repeat: no-repeat;
 color: white;
 display: flex;
 align-items: center;
